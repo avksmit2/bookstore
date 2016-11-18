@@ -100,7 +100,7 @@ function book_review_field_default_field_instances() {
     'bundle' => 'book_review',
     'default_value' => array(
       0 => array(
-        'value' => 'Good',
+        'value' => '2 - Good',
       ),
     ),
     'deleted' => 0,
@@ -132,7 +132,7 @@ function book_review_field_default_field_instances() {
       'module' => 'options',
       'settings' => array(),
       'type' => 'options_select',
-      'weight' => 2,
+      'weight' => 4,
     ),
   );
 

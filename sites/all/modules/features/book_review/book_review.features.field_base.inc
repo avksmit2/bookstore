@@ -68,10 +68,11 @@ function book_review_field_default_field_bases() {
     'module' => 'list',
     'settings' => array(
       'allowed_values' => array(
-        'Excellent' => 'Excellent',
-        'Good' => 'Good',
-        'Okay' => 'Okay',
-        'Bad' => 'Bad',
+        '1 - Excellent' => '1 - Excellent',
+        '2 - Good' => '2 - Good',
+        '3 - Okay' => '3 - Okay',
+        '4 - Not Good' => '4 - Not Good',
+        '5 - Bad' => '5 - Bad',
       ),
       'allowed_values_function' => '',
     ),

@@ -1,0 +1,57 @@
+.region #block-block-1 {
+  border-top-style: dashed;
+  border-right-style: dashed;
+  border-bottom-style: dashed;
+  border-left-style: dashed;
+  color: #229977;
+}
+
+.content p {
+  color: #000000;
+}
+
+body #wrap {
+  color: #f4f2f5;
+  background-color: #50a5a8;
+}
+
+#sitename p {
+  color: #f5edf5;
+  font-size: 31px;
+  font-weight: normal;
+  font-style: italic;
+  height: 32px;
+}
+
+h2 a {
+  font-size: 58px;
+  color: #d1c113;
+}
+
+#sitename h2 a {
+  color: #e6dc1c;
+}
+
+#block-views-new-books-block h2 {
+  color: #f5f0f5;
+  font-size: 23px;
+  font-family: Arial, Helvetica,Sans-Serif;
+}
+
+#wrap #main {
+  color: #f5fafa;
+}
+
+li a {
+  font-weight: bold;
+}
+
+#block-views-audio-books-block h2 {
+  font-size: 23px;
+  color: #f7f4f7;
+}
+
+.field-content a {
+  font-size: 16px;
+}
+
