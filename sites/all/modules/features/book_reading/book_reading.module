@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Book Reading feature.
+ */
+
+include_once 'book_reading.features.inc';
